@@ -5,7 +5,7 @@ Sample Code for the blog article [React Chakra UI Components - Learn by Coding](
 The article explains how to use the Chakra UI library in React.js by building a responsive website. The website will be built with Chakra components only, no HTML elements will be used.
 
 - 👉 [React Chakra Landing Page](https://react-chakra-ui-landing-page.appseed-srv1.com/) - LIVE Demo
-- 👉 [React Apps](https://app-generator.dev/product/?search=react) - index provided by `AppSeed`
+- 👉 [React Apps](https://app-generator.dev/product/?search=react) - index provided by **[App-Generator](https://app-generator.dev/)**
 
 <br />
 
