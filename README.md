@@ -1,11 +1,11 @@
 # [React Chakra Introduction](https://blog.appseed.us/chakra-ui-react-coding-landing-page/)
 
-Sample Code for the blog article [React Chakra UI Components - Learn by Coding](https://blog.appseed.us/chakra-ui-react-coding-landing-page/) - Provided by `AppSeed`.
+Sample Code for the blog article [React Chakra UI Components - Learn by Coding](https://blog.appseed.us/chakra-ui-react-coding-landing-page/) - Provided by **[App-Generator](https://app-generator.dev/)**.
 
-The article explains how to use the Chakra UI library in React.js by building a responsive website. The website will be built with Chakra components only, no HTML element will be used.
+The article explains how to use the Chakra UI library in React.js by building a responsive website. The website will be built with Chakra components only, no HTML elements will be used.
 
 - 👉 [React Chakra Landing Page](https://react-chakra-ui-landing-page.appseed-srv1.com/) - LIVE Demo
-- 👉 [React Apps](https://appseed.us/apps/react) - index provided by `AppSeed`
+- 👉 [React Apps](https://app-generator.dev/product/?search=react) - index provided by `AppSeed`
 
 <br />
 
@@ -33,7 +33,7 @@ The article explains how to use the Chakra UI library in React.js by building a 
 
 <br />
 
-## What is React.js
+## [Getting Started with React](https://app-generator.dev/docs/technologies/react/index.html)
 
 React.js is a JavaScript library that allows you to build fast and efficient web applications using the minimum amount of code possible. In React.js, you can break the web layout into components - reusable bits of code that return HTML elements. 
 
@@ -52,4 +52,4 @@ With Chakra UI, you spend less time building responsive and beautiful websites. 
 <br />
 
 --- 
-[React Chakra Introduction](https://blog.appseed.us/chakra-ui-react-coding-landing-page/) - provided by AppSeed 
+[React Chakra Introduction](https://blog.appseed.us/chakra-ui-react-coding-landing-page/) - provided by **[App-Generator](https://app-generator.dev/)**. 
